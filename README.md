@@ -5,6 +5,7 @@ I'm Sarthak Mahajan, Python enthusiast with a passion for web development. Profi
 ## 🔧 Technologies & Tools
 
 - HTML5
+- React JS
 - CSS3
 - JavaScript
 - Python
